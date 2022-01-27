@@ -13,4 +13,8 @@ formaster only
 
 love is all
 hsjfdskjfdkdk
+<<<<<<< HEAD
 rtyujkilghjk
+=======
+111111
+>>>>>>> 7d3fe3e86e406c44c3633068fe25a66635027f66
